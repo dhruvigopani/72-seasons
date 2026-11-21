@@ -1,0 +1,1586 @@
+[
+  {
+    "no": 1,
+    "starts": "02-04",
+    "kanji": "東風解凍",
+    "romaji": "Harukaze kōri o toku",
+    "english": "East wind melts the ice",
+    "major_season": {
+      "no": 1,
+      "kanji": "立春",
+      "romaji": "Risshun",
+      "english": "Beginning of spring"
+    },
+    "season": "Spring",
+    "cues": [
+      "Open a window for ten minutes. Let fresh air in.",
+      "Notice the light lasts a little longer this evening.",
+      "Eat something with citrus to wake up your senses.",
+      "Write down one thing you want to start this spring.",
+      "Take a short walk at noon, the warmest part of the day.",
+      "Swap one heavy blanket for a lighter one."
+    ]
+  },
+  {
+    "no": 2,
+    "starts": "02-09",
+    "kanji": "黄鶯睍睆",
+    "romaji": "Kōō kenkan su",
+    "english": "Warblers sing in the hills",
+    "major_season": {
+      "no": 1,
+      "kanji": "立春",
+      "romaji": "Risshun",
+      "english": "Beginning of spring"
+    },
+    "season": "Spring",
+    "cues": [
+      "Step outside early and listen for birdsong.",
+      "Sing along to one song you love.",
+      "Notice which birds visit your street.",
+      "Eat a light breakfast and get moving early.",
+      "Call a friend just to say hello.",
+      "Take a walk without headphones."
+    ]
+  },
+  {
+    "no": 3,
+    "starts": "02-14",
+    "kanji": "魚上氷",
+    "romaji": "Uo kōri o izuru",
+    "english": "Fish rise from the ice",
+    "major_season": {
+      "no": 1,
+      "kanji": "立春",
+      "romaji": "Risshun",
+      "english": "Beginning of spring"
+    },
+    "season": "Spring",
+    "cues": [
+      "Start one thing you put off all winter.",
+      "Stretch for five minutes after you wake up.",
+      "Eat fish or something fresh and light tonight.",
+      "Clear one cluttered surface in your home.",
+      "Notice frost giving way to water in the morning.",
+      "Reply to the message you have been avoiding."
+    ]
+  },
+  {
+    "no": 4,
+    "starts": "02-19",
+    "kanji": "土脉潤起",
+    "romaji": "Tsuchi no shō uruoi okoru",
+    "english": "Rain moistens the soil",
+    "major_season": {
+      "no": 2,
+      "kanji": "雨水",
+      "romaji": "Usui",
+      "english": "Rainwater"
+    },
+    "season": "Spring",
+    "cues": [
+      "Water your plants and check their soil.",
+      "Start a few seeds indoors on a sunny sill.",
+      "Listen to the rain for five minutes, doing nothing else.",
+      "Make a warm soup with greens.",
+      "Smell the air after it rains.",
+      "Drink a glass of water before your coffee."
+    ]
+  },
+  {
+    "no": 5,
+    "starts": "02-24",
+    "kanji": "霞始靆",
+    "romaji": "Kasumi hajimete tanabiku",
+    "english": "Mist starts to linger",
+    "major_season": {
+      "no": 2,
+      "kanji": "雨水",
+      "romaji": "Usui",
+      "english": "Rainwater"
+    },
+    "season": "Spring",
+    "cues": [
+      "Hazy mornings suit a slow start. Skip the rush.",
+      "Notice how mist softens the shapes of things.",
+      "Make tea and drink it before checking your phone.",
+      "Leave ten minutes early and walk slower.",
+      "Do one task at a time today.",
+      "Look at the horizon for a minute. Rest your eyes."
+    ]
+  },
+  {
+    "no": 6,
+    "starts": "03-01",
+    "kanji": "草木萌動",
+    "romaji": "Sōmoku mebae izuru",
+    "english": "Grass sprouts, trees bud",
+    "major_season": {
+      "no": 2,
+      "kanji": "雨水",
+      "romaji": "Usui",
+      "english": "Rainwater"
+    },
+    "season": "Spring",
+    "cues": [
+      "Look closely at bare branches. Buds are swelling.",
+      "Eat sprouts or fresh greens today.",
+      "Find one patch of new green on your walk.",
+      "Plan something to look forward to this month.",
+      "Stand on grass or soil for a minute.",
+      "Repot or refresh one plant."
+    ]
+  },
+  {
+    "no": 7,
+    "starts": "03-06",
+    "kanji": "蟄虫啓戸",
+    "romaji": "Sugomori mushi to o hiraku",
+    "english": "Hibernating insects surface",
+    "major_season": {
+      "no": 3,
+      "kanji": "啓蟄",
+      "romaji": "Keichitsu",
+      "english": "Insects awaken"
+    },
+    "season": "Spring",
+    "cues": [
+      "Clear out one closet. Everything is waking up.",
+      "Take a longer walk than usual.",
+      "Notice the first bees out in the sun.",
+      "Open every window and air out your home.",
+      "Try a new route to somewhere familiar.",
+      "Donate three things you did not use this winter."
+    ]
+  },
+  {
+    "no": 8,
+    "starts": "03-11",
+    "kanji": "桃始笑",
+    "romaji": "Momo hajimete saku",
+    "english": "First peach blossoms",
+    "major_season": {
+      "no": 3,
+      "kanji": "啓蟄",
+      "romaji": "Keichitsu",
+      "english": "Insects awaken"
+    },
+    "season": "Spring",
+    "cues": [
+      "Bring a few flowering branches indoors.",
+      "Notice pink blossoms on your street.",
+      "Eat fresh strawberries.",
+      "Smile at a stranger today.",
+      "Wear something soft pink or light.",
+      "Take a close-up photo of one blossom."
+    ]
+  },
+  {
+    "no": 9,
+    "starts": "03-16",
+    "kanji": "菜虫化蝶",
+    "romaji": "Namushi chō to naru",
+    "english": "Caterpillars become butterflies",
+    "major_season": {
+      "no": 3,
+      "kanji": "啓蟄",
+      "romaji": "Keichitsu",
+      "english": "Insects awaken"
+    },
+    "season": "Spring",
+    "cues": [
+      "Try one small change in your routine.",
+      "Look for butterflies in a sunny spot.",
+      "Learn one new thing for ten minutes.",
+      "Rearrange one corner of your room.",
+      "Cook a meal you have never made before.",
+      "Write down how you have changed since last spring."
+    ]
+  },
+  {
+    "no": 10,
+    "starts": "03-21",
+    "kanji": "雀始巣",
+    "romaji": "Suzume hajimete sukuu",
+    "english": "Sparrows start to nest",
+    "major_season": {
+      "no": 4,
+      "kanji": "春分",
+      "romaji": "Shunbun",
+      "english": "Spring equinox"
+    },
+    "season": "Spring",
+    "cues": [
+      "Tidy your space until it feels like a nest.",
+      "Notice birds carrying twigs and grass.",
+      "Wash your sheets and make your bed with care.",
+      "Cook at home and eat slowly.",
+      "Add one plant or flower to your room.",
+      "Spend an evening at home with no plans."
+    ]
+  },
+  {
+    "no": 11,
+    "starts": "03-26",
+    "kanji": "櫻始開",
+    "romaji": "Sakura hajimete saku",
+    "english": "First cherry blossoms",
+    "major_season": {
+      "no": 4,
+      "kanji": "春分",
+      "romaji": "Shunbun",
+      "english": "Spring equinox"
+    },
+    "season": "Spring",
+    "cues": [
+      "Take lunch outside under a blooming tree.",
+      "Walk a route with blossoms on the way.",
+      "Look up. Notice petals against the sky.",
+      "Share something sweet with a friend.",
+      "Sit outside for fifteen minutes, phone away.",
+      "Petals are starting to fall. Enjoy them now."
+    ]
+  },
+  {
+    "no": 12,
+    "starts": "03-31",
+    "kanji": "雷乃発声",
+    "romaji": "Kaminari sunawachi koe o hassu",
+    "english": "Distant thunder",
+    "major_season": {
+      "no": 4,
+      "kanji": "春分",
+      "romaji": "Shunbun",
+      "english": "Spring equinox"
+    },
+    "season": "Spring",
+    "cues": [
+      "Spring storms bring the first thunder of the year.",
+      "Keep an umbrella by the door.",
+      "On a rainy evening, read something you love.",
+      "Count the seconds between lightning and thunder.",
+      "Make a cozy dinner and light a candle.",
+      "Unplug for an hour this evening."
+    ]
+  },
+  {
+    "no": 13,
+    "starts": "04-05",
+    "kanji": "玄鳥至",
+    "romaji": "Tsubame kitaru",
+    "english": "Swallows return",
+    "major_season": {
+      "no": 5,
+      "kanji": "清明",
+      "romaji": "Seimei",
+      "english": "Pure and clear"
+    },
+    "season": "Spring",
+    "cues": [
+      "Reach out to someone you have not seen in a while.",
+      "Watch for swallows darting low over open ground.",
+      "Return something you borrowed.",
+      "Revisit a favorite place you have missed.",
+      "Eat a meal outdoors.",
+      "Send a short thank-you note."
+    ]
+  },
+  {
+    "no": 14,
+    "starts": "04-10",
+    "kanji": "鴻雁北",
+    "romaji": "Kōgan kaeru",
+    "english": "Wild geese fly north",
+    "major_season": {
+      "no": 5,
+      "kanji": "清明",
+      "romaji": "Seimei",
+      "english": "Pure and clear"
+    },
+    "season": "Spring",
+    "cues": [
+      "Let go of one winter habit you no longer need.",
+      "Look up for birds flying in formation.",
+      "Put away your heaviest coat.",
+      "Plan a trip, even a small one.",
+      "Walk somewhere new in your neighborhood.",
+      "Say yes to one invitation."
+    ]
+  },
+  {
+    "no": 15,
+    "starts": "04-15",
+    "kanji": "虹始見",
+    "romaji": "Niji hajimete arawaru",
+    "english": "First rainbows",
+    "major_season": {
+      "no": 5,
+      "kanji": "清明",
+      "romaji": "Seimei",
+      "english": "Pure and clear"
+    },
+    "season": "Spring",
+    "cues": [
+      "After rain, look for a rainbow opposite the sun.",
+      "Eat a meal with as many colors as you can.",
+      "Wear your brightest color.",
+      "Notice light breaking through a glass of water.",
+      "Do something kind for no reason.",
+      "Take a slow walk after the rain."
+    ]
+  },
+  {
+    "no": 16,
+    "starts": "04-20",
+    "kanji": "葭始生",
+    "romaji": "Ashi hajimete shōzu",
+    "english": "First reeds sprout",
+    "major_season": {
+      "no": 6,
+      "kanji": "穀雨",
+      "romaji": "Kokuu",
+      "english": "Grain rain"
+    },
+    "season": "Spring",
+    "cues": [
+      "Walk near water. New green is rising at the edges.",
+      "Eat spring greens like peas or asparagus.",
+      "Notice how tall the grass has grown.",
+      "Start a small daily habit and keep it simple.",
+      "Drink more water today.",
+      "Sit by water and listen for a few minutes."
+    ]
+  },
+  {
+    "no": 17,
+    "starts": "04-25",
+    "kanji": "霜止出苗",
+    "romaji": "Shimo yamite nae izuru",
+    "english": "Last frost, rice seedlings grow",
+    "major_season": {
+      "no": 6,
+      "kanji": "穀雨",
+      "romaji": "Kokuu",
+      "english": "Grain rain"
+    },
+    "season": "Spring",
+    "cues": [
+      "Frost is done. Plant what you have been saving.",
+      "Start a herb pot on your windowsill.",
+      "Eat a bowl of rice with spring vegetables.",
+      "Notice seedlings in gardens and planters.",
+      "Give one idea of yours time to grow today.",
+      "Spend an hour working with your hands."
+    ]
+  },
+  {
+    "no": 18,
+    "starts": "04-30",
+    "kanji": "牡丹華",
+    "romaji": "Botan hana saku",
+    "english": "Peonies bloom",
+    "major_season": {
+      "no": 6,
+      "kanji": "穀雨",
+      "romaji": "Kokuu",
+      "english": "Grain rain"
+    },
+    "season": "Spring",
+    "cues": [
+      "Buy yourself flowers. Peonies are at their peak.",
+      "Notice big blooms in gardens and shop windows.",
+      "Dress up a little for no reason.",
+      "Treat yourself to a slow, generous meal.",
+      "Give flowers to someone.",
+      "Take a long bath and take your time."
+    ]
+  },
+  {
+    "no": 19,
+    "starts": "05-05",
+    "kanji": "蛙始鳴",
+    "romaji": "Kawazu hajimete naku",
+    "english": "Frogs start singing",
+    "major_season": {
+      "no": 7,
+      "kanji": "立夏",
+      "romaji": "Rikka",
+      "english": "Beginning of summer"
+    },
+    "season": "Summer",
+    "cues": [
+      "Take an evening walk and listen to the night.",
+      "Notice the sounds after dark.",
+      "Eat dinner outside if it is warm enough.",
+      "Enjoy the long evening light.",
+      "Sing in the shower.",
+      "Visit a pond or creek."
+    ]
+  },
+  {
+    "no": 20,
+    "starts": "05-10",
+    "kanji": "蚯蚓出",
+    "romaji": "Mimizu izuru",
+    "english": "Worms surface",
+    "major_season": {
+      "no": 7,
+      "kanji": "立夏",
+      "romaji": "Rikka",
+      "english": "Beginning of summer"
+    },
+    "season": "Summer",
+    "cues": [
+      "The soil is warm and alive. A good week to garden.",
+      "Put your hands in soil, even a pot of it.",
+      "Save food scraps for compost.",
+      "Notice the smell of earth after watering.",
+      "Eat root vegetables, roasted simply.",
+      "Weed one small patch."
+    ]
+  },
+  {
+    "no": 21,
+    "starts": "05-15",
+    "kanji": "竹笋生",
+    "romaji": "Takenoko shōzu",
+    "english": "Bamboo shoots sprout",
+    "major_season": {
+      "no": 7,
+      "kanji": "立夏",
+      "romaji": "Rikka",
+      "english": "Beginning of summer"
+    },
+    "season": "Summer",
+    "cues": [
+      "Spring vegetables are at their best. Eat green.",
+      "Notice how fast everything is growing now.",
+      "Stretch tall for five minutes this morning.",
+      "Try a dish with bamboo shoots.",
+      "Push one project forward a little.",
+      "Stand up straight and take three deep breaths."
+    ]
+  },
+  {
+    "no": 22,
+    "starts": "05-21",
+    "kanji": "蚕起食桑",
+    "romaji": "Kaiko okite kuwa o hamu",
+    "english": "Silkworms feast on mulberry",
+    "major_season": {
+      "no": 8,
+      "kanji": "小満",
+      "romaji": "Shōman",
+      "english": "Lesser ripening"
+    },
+    "season": "Summer",
+    "cues": [
+      "Days are long and busy. Eat well and fuel up.",
+      "Eat berries today.",
+      "Pack a proper lunch instead of grabbing one.",
+      "Notice how green the trees have become.",
+      "Rest for ten quiet minutes after lunch.",
+      "Cook a big meal and save some for tomorrow."
+    ]
+  },
+  {
+    "no": 23,
+    "starts": "05-26",
+    "kanji": "紅花栄",
+    "romaji": "Benibana sakau",
+    "english": "Safflowers bloom",
+    "major_season": {
+      "no": 8,
+      "kanji": "小満",
+      "romaji": "Shōman",
+      "english": "Lesser ripening"
+    },
+    "season": "Summer",
+    "cues": [
+      "Wear a bright color today.",
+      "Notice yellow and orange flowers on your walk.",
+      "Add something red or orange to your meal.",
+      "Make something creative, even something small.",
+      "Send a friend a photo of something beautiful.",
+      "Paint or draw for fifteen minutes."
+    ]
+  },
+  {
+    "no": 24,
+    "starts": "05-31",
+    "kanji": "麦秋至",
+    "romaji": "Mugi no toki itaru",
+    "english": "Wheat ripens",
+    "major_season": {
+      "no": 8,
+      "kanji": "小満",
+      "romaji": "Shōman",
+      "english": "Lesser ripening"
+    },
+    "season": "Summer",
+    "cues": [
+      "Look back at what spring grew. Write down one win.",
+      "Eat fresh bread.",
+      "Notice golden fields or drying grass.",
+      "Finish one task you started this spring.",
+      "Thank someone who helped you this season.",
+      "Clean up your workspace for summer."
+    ]
+  },
+  {
+    "no": 25,
+    "starts": "06-06",
+    "kanji": "蟷螂生",
+    "romaji": "Kamakiri shōzu",
+    "english": "Praying mantises hatch",
+    "major_season": {
+      "no": 9,
+      "kanji": "芒種",
+      "romaji": "Bōshu",
+      "english": "Grain in ear"
+    },
+    "season": "Summer",
+    "cues": [
+      "Early summer. Pace yourself before the heat.",
+      "Notice small insects in the garden.",
+      "Pause before you react today.",
+      "Eat light, cool food.",
+      "Keep still for five minutes and just watch.",
+      "Move your workout to the cool of the morning."
+    ]
+  },
+  {
+    "no": 26,
+    "starts": "06-11",
+    "kanji": "腐草為螢",
+    "romaji": "Kusaretaru kusa hotaru to naru",
+    "english": "Fireflies rise from the grass",
+    "major_season": {
+      "no": 9,
+      "kanji": "芒種",
+      "romaji": "Bōshu",
+      "english": "Grain in ear"
+    },
+    "season": "Summer",
+    "cues": [
+      "Stay out after dusk once this week.",
+      "Notice the first lights coming on at dusk.",
+      "Turn off screens an hour before bed.",
+      "Eat dinner by candlelight.",
+      "Take a night walk with a friend.",
+      "Look at the stars for five minutes."
+    ]
+  },
+  {
+    "no": 27,
+    "starts": "06-16",
+    "kanji": "梅子黄",
+    "romaji": "Ume no mi kibamu",
+    "english": "Plums turn yellow",
+    "major_season": {
+      "no": 9,
+      "kanji": "芒種",
+      "romaji": "Bōshu",
+      "english": "Grain in ear"
+    },
+    "season": "Summer",
+    "cues": [
+      "Stone fruit is ripening. Eat it at its best.",
+      "Eat fruit with yogurt for breakfast.",
+      "Notice the scent of ripe fruit at the market.",
+      "Keep an umbrella close for summer showers.",
+      "Make a cold drink with fresh fruit.",
+      "Share fruit with a neighbor or coworker."
+    ]
+  },
+  {
+    "no": 28,
+    "starts": "06-21",
+    "kanji": "乃東枯",
+    "romaji": "Natsukarekusa karuru",
+    "english": "Self-heal withers",
+    "major_season": {
+      "no": 10,
+      "kanji": "夏至",
+      "romaji": "Geshi",
+      "english": "Summer solstice"
+    },
+    "season": "Summer",
+    "cues": [
+      "The longest days. Use the late light for a walk.",
+      "Watch the sunset all the way to the end.",
+      "Notice how late the sky stays bright.",
+      "Take a long lunch outside.",
+      "Check in on yourself. Rest if you need it.",
+      "Eat corn or tomatoes while they are sweet."
+    ]
+  },
+  {
+    "no": 29,
+    "starts": "06-27",
+    "kanji": "菖蒲華",
+    "romaji": "Ayame hana saku",
+    "english": "Irises bloom",
+    "major_season": {
+      "no": 10,
+      "kanji": "夏至",
+      "romaji": "Geshi",
+      "english": "Summer solstice"
+    },
+    "season": "Summer",
+    "cues": [
+      "Halfway through the year. Check in on one goal.",
+      "Notice purple flowers on your walk.",
+      "Clear your desk for the second half of the year.",
+      "Plan one thing for the summer.",
+      "Eat a cooling salad.",
+      "Write three lines about the year so far."
+    ]
+  },
+  {
+    "no": 30,
+    "starts": "07-02",
+    "kanji": "半夏生",
+    "romaji": "Hange shōzu",
+    "english": "Crow-dipper sprouts",
+    "major_season": {
+      "no": 10,
+      "kanji": "夏至",
+      "romaji": "Geshi",
+      "english": "Summer solstice"
+    },
+    "season": "Summer",
+    "cues": [
+      "Humid days ahead. Eat light and rest well.",
+      "Take a short nap if you can.",
+      "Drink something cool and unsweetened.",
+      "Notice weeds pushing up through cracks.",
+      "Keep your evening plans light.",
+      "Air out your home in the cool morning."
+    ]
+  },
+  {
+    "no": 31,
+    "starts": "07-07",
+    "kanji": "温風至",
+    "romaji": "Atsukaze itaru",
+    "english": "Warm winds blow",
+    "major_season": {
+      "no": 11,
+      "kanji": "小暑",
+      "romaji": "Shōsho",
+      "english": "Lesser heat"
+    },
+    "season": "Summer",
+    "cues": [
+      "Move workouts to early morning or evening.",
+      "Feel the warm wind for a minute.",
+      "Eat cold noodles or a chilled soup.",
+      "Wear light, loose clothes.",
+      "Drink water before you feel thirsty.",
+      "Hang laundry out to dry in the warm air."
+    ]
+  },
+  {
+    "no": 32,
+    "starts": "07-12",
+    "kanji": "蓮始開",
+    "romaji": "Hasu hajimete hiraku",
+    "english": "First lotus blossoms",
+    "major_season": {
+      "no": 11,
+      "kanji": "小暑",
+      "romaji": "Shōsho",
+      "english": "Lesser heat"
+    },
+    "season": "Summer",
+    "cues": [
+      "Lotus flowers open at dawn. Try waking with the sun.",
+      "Sit quietly for five minutes this morning.",
+      "Notice flowers floating on still water.",
+      "Eat a light breakfast with fruit.",
+      "Start the day before checking messages.",
+      "Do one calm thing before work."
+    ]
+  },
+  {
+    "no": 33,
+    "starts": "07-17",
+    "kanji": "鷹乃学習",
+    "romaji": "Taka sunawachi waza o narau",
+    "english": "Hawks learn to fly",
+    "major_season": {
+      "no": 11,
+      "kanji": "小暑",
+      "romaji": "Shōsho",
+      "english": "Lesser heat"
+    },
+    "season": "Summer",
+    "cues": [
+      "Practice something new, badly, and keep going.",
+      "Watch birds circling on warm air.",
+      "Try a skill you have been afraid to try.",
+      "Ask someone to teach you something.",
+      "Go somewhere high and look out.",
+      "Encourage someone who is just starting out."
+    ]
+  },
+  {
+    "no": 34,
+    "starts": "07-23",
+    "kanji": "桐始結花",
+    "romaji": "Kiri hajimete hana o musubu",
+    "english": "Paulownia trees seed",
+    "major_season": {
+      "no": 12,
+      "kanji": "大暑",
+      "romaji": "Taisho",
+      "english": "Greater heat"
+    },
+    "season": "Summer",
+    "cues": [
+      "Seeds set now for next year. Plan one thing ahead.",
+      "Notice seed pods forming on trees.",
+      "Set aside a little money for later.",
+      "Write down an idea for next year.",
+      "Snack on seeds or nuts.",
+      "Help someone get started on something."
+    ]
+  },
+  {
+    "no": 35,
+    "starts": "07-29",
+    "kanji": "土潤溽暑",
+    "romaji": "Tsuchi uruōte mushiatsushi",
+    "english": "Damp earth, humid air",
+    "major_season": {
+      "no": 12,
+      "kanji": "大暑",
+      "romaji": "Taisho",
+      "english": "Greater heat"
+    },
+    "season": "Summer",
+    "cues": [
+      "Drink more water than you think you need.",
+      "Eat watermelon or cucumber.",
+      "Take a cool shower in the afternoon.",
+      "Slow down in the heat. Do less.",
+      "Find shade for your lunch break.",
+      "Sleep with a window open if it is cool enough."
+    ]
+  },
+  {
+    "no": 36,
+    "starts": "08-03",
+    "kanji": "大雨時行",
+    "romaji": "Taiu tokidoki furu",
+    "english": "Great rains sometimes fall",
+    "major_season": {
+      "no": 12,
+      "kanji": "大暑",
+      "romaji": "Taisho",
+      "english": "Greater heat"
+    },
+    "season": "Summer",
+    "cues": [
+      "Summer storms clear the air. Expect slow days.",
+      "Listen to rain on the roof.",
+      "Keep a towel and umbrella ready.",
+      "Spend a rainy afternoon on a book or film.",
+      "Notice how fresh the air smells after a storm.",
+      "Make a warm drink on a rainy evening."
+    ]
+  },
+  {
+    "no": 37,
+    "starts": "08-08",
+    "kanji": "涼風至",
+    "romaji": "Suzukaze itaru",
+    "english": "Cool winds blow",
+    "major_season": {
+      "no": 13,
+      "kanji": "立秋",
+      "romaji": "Risshū",
+      "english": "Beginning of autumn"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Notice the first cool breeze of the evening.",
+      "Take an evening walk as it cools down.",
+      "Bring a light layer when you head out.",
+      "Eat the last of summer's tomatoes.",
+      "Open the windows at night.",
+      "Reset one routine for the coming autumn."
+    ]
+  },
+  {
+    "no": 38,
+    "starts": "08-13",
+    "kanji": "寒蝉鳴",
+    "romaji": "Higurashi naku",
+    "english": "Evening cicadas sing",
+    "major_season": {
+      "no": 13,
+      "kanji": "立秋",
+      "romaji": "Risshū",
+      "english": "Beginning of autumn"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Evenings are getting shorter. Sit outside tonight.",
+      "Listen for insects buzzing at dusk.",
+      "Watch the sun set a little earlier.",
+      "Call someone you spent summer with.",
+      "Eat a simple dinner outdoors.",
+      "Write down a favorite summer memory."
+    ]
+  },
+  {
+    "no": 39,
+    "starts": "08-18",
+    "kanji": "蒙霧升降",
+    "romaji": "Fukaki kiri matō",
+    "english": "Thick fog descends",
+    "major_season": {
+      "no": 13,
+      "kanji": "立秋",
+      "romaji": "Risshū",
+      "english": "Beginning of autumn"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Foggy mornings. Give yourself extra time.",
+      "Notice how fog changes the sounds around you.",
+      "Walk slower today.",
+      "Make a warm breakfast.",
+      "Take a quiet walk in the fog.",
+      "Focus on what is close. Save the big picture for later."
+    ]
+  },
+  {
+    "no": 40,
+    "starts": "08-23",
+    "kanji": "綿柎開",
+    "romaji": "Wata no hana shibe hiraku",
+    "english": "Cotton bolls open",
+    "major_season": {
+      "no": 14,
+      "kanji": "処暑",
+      "romaji": "Shosho",
+      "english": "End of heat"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Refresh your bedding for the cooler nights ahead.",
+      "Notice soft textures around you.",
+      "Wear something soft and comfortable.",
+      "Fold a load of laundry slowly, with care.",
+      "Care for your skin after the summer sun.",
+      "Go to bed early tonight."
+    ]
+  },
+  {
+    "no": 41,
+    "starts": "08-28",
+    "kanji": "天地始粛",
+    "romaji": "Tenchi hajimete samushi",
+    "english": "Heat starts to die down",
+    "major_season": {
+      "no": 14,
+      "kanji": "処暑",
+      "romaji": "Shosho",
+      "english": "End of heat"
+    },
+    "season": "Autumn",
+    "cues": [
+      "The heat is breaking. Ease back into longer walks.",
+      "Notice the light sitting lower in the sky.",
+      "Restart a routine you dropped in the heat.",
+      "Eat late-summer peaches or plums.",
+      "Plan your autumn weekends.",
+      "Stretch for ten minutes in the evening."
+    ]
+  },
+  {
+    "no": 42,
+    "starts": "09-02",
+    "kanji": "禾乃登",
+    "romaji": "Kokumono sunawachi minoru",
+    "english": "Rice ripens",
+    "major_season": {
+      "no": 14,
+      "kanji": "処暑",
+      "romaji": "Shosho",
+      "english": "End of heat"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Harvest season. Cook a simple bowl of fresh rice.",
+      "Notice golden fields or yellowing grass.",
+      "Eat a home-cooked meal with someone.",
+      "Be grateful for one thing you worked for.",
+      "Look at what you have finished this year.",
+      "Share food with a neighbor."
+    ]
+  },
+  {
+    "no": 43,
+    "starts": "09-08",
+    "kanji": "草露白",
+    "romaji": "Kusa no tsuyu shiroshi",
+    "english": "Dew glistens white on grass",
+    "major_season": {
+      "no": 15,
+      "kanji": "白露",
+      "romaji": "Hakuro",
+      "english": "White dew"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Look for dew on the grass first thing in the morning.",
+      "Step outside before breakfast.",
+      "Add a warm layer for early mornings.",
+      "Eat grapes or figs.",
+      "Notice the cooler air on your face.",
+      "Begin your day slowly with tea."
+    ]
+  },
+  {
+    "no": 44,
+    "starts": "09-13",
+    "kanji": "鶺鴒鳴",
+    "romaji": "Sekirei naku",
+    "english": "Wagtails sing",
+    "major_season": {
+      "no": 15,
+      "kanji": "白露",
+      "romaji": "Hakuro",
+      "english": "White dew"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Walk somewhere near water today.",
+      "Listen for birds near water.",
+      "Notice small birds bobbing on the ground.",
+      "Talk less and listen more today.",
+      "Go outside on your lunch break.",
+      "Hum a tune while you work."
+    ]
+  },
+  {
+    "no": 45,
+    "starts": "09-18",
+    "kanji": "玄鳥去",
+    "romaji": "Tsubame saru",
+    "english": "Swallows leave",
+    "major_season": {
+      "no": 15,
+      "kanji": "白露",
+      "romaji": "Hakuro",
+      "english": "White dew"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Say goodbye to summer. Finish one summer plan.",
+      "Notice fewer birds around as they head south.",
+      "Pack away summer clothes.",
+      "Write to someone far away.",
+      "Eat the last of the summer fruit.",
+      "Let go of one thing that has run its course."
+    ]
+  },
+  {
+    "no": 46,
+    "starts": "09-23",
+    "kanji": "雷乃収声",
+    "romaji": "Kaminari sunawachi koe o osamu",
+    "english": "Thunder ceases",
+    "major_season": {
+      "no": 16,
+      "kanji": "秋分",
+      "romaji": "Shūbun",
+      "english": "Autumn equinox"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Summer storms are done. The air turns still and clear.",
+      "Look up at the clear autumn sky.",
+      "Take a long walk on a calm day.",
+      "Notice how quiet the evenings feel.",
+      "Cook with seasonal mushrooms.",
+      "Do one calm, focused task."
+    ]
+  },
+  {
+    "no": 47,
+    "starts": "09-28",
+    "kanji": "蟄虫坏戸",
+    "romaji": "Mushi kakurete to o fusagu",
+    "english": "Insects hole up underground",
+    "major_season": {
+      "no": 16,
+      "kanji": "秋分",
+      "romaji": "Shūbun",
+      "english": "Autumn equinox"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Start winding down a little earlier each evening.",
+      "Notice fewer insects buzzing around.",
+      "Set a regular bedtime this week.",
+      "Get your home ready for the colder months.",
+      "Eat warm, grounding food like sweet potatoes.",
+      "Spend a quiet evening in."
+    ]
+  },
+  {
+    "no": 48,
+    "starts": "10-03",
+    "kanji": "水始涸",
+    "romaji": "Mizu hajimete karuru",
+    "english": "Fields are drained",
+    "major_season": {
+      "no": 16,
+      "kanji": "秋分",
+      "romaji": "Shūbun",
+      "english": "Autumn equinox"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Clear what is finished. Close one open loop.",
+      "Clean out your fridge.",
+      "Notice fields and gardens being cleared.",
+      "Sip warm water or tea through the day.",
+      "Clear your desktop and downloads folder.",
+      "Cancel one subscription you no longer use."
+    ]
+  },
+  {
+    "no": 49,
+    "starts": "10-08",
+    "kanji": "鴻雁来",
+    "romaji": "Kōgan kitaru",
+    "english": "Wild geese return",
+    "major_season": {
+      "no": 17,
+      "kanji": "寒露",
+      "romaji": "Kanro",
+      "english": "Cold dew"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Cooler nights. Bring out a warm layer.",
+      "Look up for birds flying in V shapes.",
+      "Reconnect with an old friend.",
+      "Eat roasted squash or pumpkin.",
+      "Return to a place that feels like home.",
+      "Notice the earlier sunsets."
+    ]
+  },
+  {
+    "no": 50,
+    "starts": "10-13",
+    "kanji": "菊花開",
+    "romaji": "Kiku no hana hiraku",
+    "english": "Chrysanthemums bloom",
+    "major_season": {
+      "no": 17,
+      "kanji": "寒露",
+      "romaji": "Kanro",
+      "english": "Cold dew"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Autumn is at its peak. Plan a day outside.",
+      "Notice chrysanthemums at markets and doorsteps.",
+      "Bring a pot of flowers home.",
+      "Eat apples or pears.",
+      "Call an older relative or friend.",
+      "Take a long walk and notice the colors."
+    ]
+  },
+  {
+    "no": 51,
+    "starts": "10-18",
+    "kanji": "蟋蟀在戸",
+    "romaji": "Kirigirisu to ni ari",
+    "english": "Crickets chirp by the door",
+    "major_season": {
+      "no": 17,
+      "kanji": "寒露",
+      "romaji": "Kanro",
+      "english": "Cold dew"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Long nights begin. Read before bed instead of scrolling.",
+      "Listen for crickets after dark.",
+      "Light a candle in the evening.",
+      "Make a warm drink before bed.",
+      "Go to bed fifteen minutes earlier.",
+      "Spend an evening on a hobby."
+    ]
+  },
+  {
+    "no": 52,
+    "starts": "10-23",
+    "kanji": "霜始降",
+    "romaji": "Shimo hajimete furu",
+    "english": "First frost",
+    "major_season": {
+      "no": 18,
+      "kanji": "霜降",
+      "romaji": "Sōkō",
+      "english": "Frost falls"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Mornings turn cold. Warm drinks, warm socks.",
+      "Look for frost on cars and grass.",
+      "Eat a hot breakfast.",
+      "Bring out your winter coat.",
+      "Eat citrus and dark greens.",
+      "Stretch for a minute before you head out."
+    ]
+  },
+  {
+    "no": 53,
+    "starts": "10-28",
+    "kanji": "霎時施",
+    "romaji": "Kosame tokidoki furu",
+    "english": "Light rains sometimes fall",
+    "major_season": {
+      "no": 18,
+      "kanji": "霜降",
+      "romaji": "Sōkō",
+      "english": "Frost falls"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Soft rain days are good for slow, indoor work.",
+      "Listen to light rain.",
+      "Pack a small umbrella in your bag.",
+      "Make a pot of soup.",
+      "Visit a café or library on a rainy day.",
+      "Notice wet leaves on the ground."
+    ]
+  },
+  {
+    "no": 54,
+    "starts": "11-02",
+    "kanji": "楓蔦黄",
+    "romaji": "Momiji tsuta kibamu",
+    "english": "Maple and ivy turn yellow",
+    "major_season": {
+      "no": 18,
+      "kanji": "霜降",
+      "romaji": "Sōkō",
+      "english": "Frost falls"
+    },
+    "season": "Autumn",
+    "cues": [
+      "Go see the leaves before they fall.",
+      "Pick up one beautiful leaf.",
+      "Notice ivy turning red on walls.",
+      "Eat roasted chestnuts or nuts.",
+      "Take photos of autumn colors.",
+      "Walk through a park slowly."
+    ]
+  },
+  {
+    "no": 55,
+    "starts": "11-07",
+    "kanji": "山茶始開",
+    "romaji": "Tsubaki hajimete hiraku",
+    "english": "Camellias bloom",
+    "major_season": {
+      "no": 19,
+      "kanji": "立冬",
+      "romaji": "Rittō",
+      "english": "Beginning of winter"
+    },
+    "season": "Winter",
+    "cues": [
+      "Bright flowers in a gray month. Find one on your walk.",
+      "Notice camellias and their glossy leaves.",
+      "Wear a bright color on a gray day.",
+      "Drink a warm tea in the afternoon.",
+      "Send someone a kind note.",
+      "Add a small flower to your desk."
+    ]
+  },
+  {
+    "no": 56,
+    "starts": "11-12",
+    "kanji": "地始凍",
+    "romaji": "Chi hajimete kōru",
+    "english": "Land starts to freeze",
+    "major_season": {
+      "no": 19,
+      "kanji": "立冬",
+      "romaji": "Rittō",
+      "english": "Beginning of winter"
+    },
+    "season": "Winter",
+    "cues": [
+      "Eat warming food. Soups and root vegetables.",
+      "Notice how cold the ground feels in the morning.",
+      "Wear an extra layer outside.",
+      "Take a hot bath tonight.",
+      "Seal one drafty window or door.",
+      "Stay in and cook something slow."
+    ]
+  },
+  {
+    "no": 57,
+    "starts": "11-17",
+    "kanji": "金盞香",
+    "romaji": "Kinsenka saku",
+    "english": "Daffodils bloom",
+    "major_season": {
+      "no": 19,
+      "kanji": "立冬",
+      "romaji": "Rittō",
+      "english": "Beginning of winter"
+    },
+    "season": "Winter",
+    "cues": [
+      "Look for flowers still blooming in the cold.",
+      "Go to bed a little earlier tonight.",
+      "Eat something warm with ginger.",
+      "Put fresh flowers on your table.",
+      "Notice which plants stay green in winter.",
+      "Spend a slow evening at home."
+    ]
+  },
+  {
+    "no": 58,
+    "starts": "11-22",
+    "kanji": "虹蔵不見",
+    "romaji": "Niji kakurete miezu",
+    "english": "Rainbows hide",
+    "major_season": {
+      "no": 20,
+      "kanji": "小雪",
+      "romaji": "Shōsetsu",
+      "english": "Lesser snow"
+    },
+    "season": "Winter",
+    "cues": [
+      "The light is low and soft. Get outside at midday.",
+      "Notice how long your shadow is at noon.",
+      "Eat citrus for a bit of sunshine.",
+      "Turn on warm lights in the evening.",
+      "Sit by a sunny window for ten minutes.",
+      "Keep your evening calm and simple."
+    ]
+  },
+  {
+    "no": 59,
+    "starts": "11-27",
+    "kanji": "朔風払葉",
+    "romaji": "Kitakaze konoha o harau",
+    "english": "North wind strips the leaves",
+    "major_season": {
+      "no": 20,
+      "kanji": "小雪",
+      "romaji": "Shōsetsu",
+      "english": "Lesser snow"
+    },
+    "season": "Winter",
+    "cues": [
+      "Bare trees ahead. Look up at the shapes of branches.",
+      "Wrap up warm against the wind.",
+      "Sweep up fallen leaves.",
+      "Eat a hearty stew.",
+      "Notice which trees are already bare.",
+      "Let go of one thing you are holding on to."
+    ]
+  },
+  {
+    "no": 60,
+    "starts": "12-02",
+    "kanji": "橘始黄",
+    "romaji": "Tachibana hajimete kibamu",
+    "english": "Tachibana citrus turns yellow",
+    "major_season": {
+      "no": 20,
+      "kanji": "小雪",
+      "romaji": "Shōsetsu",
+      "english": "Lesser snow"
+    },
+    "season": "Winter",
+    "cues": [
+      "Citrus season. Eat an orange in the sun.",
+      "Notice citrus piled up at the market.",
+      "Add lemon or yuzu to hot water.",
+      "Bring brightness in with a yellow flower.",
+      "Share a bag of oranges with someone.",
+      "Take a short walk in the afternoon sun."
+    ]
+  },
+  {
+    "no": 61,
+    "starts": "12-07",
+    "kanji": "閉塞成冬",
+    "romaji": "Sora samuku fuyu to naru",
+    "english": "Cold sets in, winter begins",
+    "major_season": {
+      "no": 21,
+      "kanji": "大雪",
+      "romaji": "Taisetsu",
+      "english": "Greater snow"
+    },
+    "season": "Winter",
+    "cues": [
+      "Winter is here. Make your space warm and soft.",
+      "Bring out blankets and warm socks.",
+      "Eat a warm bowl of noodles.",
+      "Notice your breath in the cold air.",
+      "Switch to warm, low lights after dark.",
+      "Plan a cozy weekend."
+    ]
+  },
+  {
+    "no": 62,
+    "starts": "12-12",
+    "kanji": "熊蟄穴",
+    "romaji": "Kuma ana ni komoru",
+    "english": "Bears start hibernating",
+    "major_season": {
+      "no": 21,
+      "kanji": "大雪",
+      "romaji": "Taisetsu",
+      "english": "Greater snow"
+    },
+    "season": "Winter",
+    "cues": [
+      "Rest more. Say no to one plan this week.",
+      "Sleep in if you can.",
+      "Make a big pot of soup to last a few days.",
+      "Stay in and read.",
+      "Take a nap without guilt.",
+      "Keep your evening free."
+    ]
+  },
+  {
+    "no": 63,
+    "starts": "12-16",
+    "kanji": "鱖魚群",
+    "romaji": "Sake no uo muragaru",
+    "english": "Salmon gather upstream",
+    "major_season": {
+      "no": 21,
+      "kanji": "大雪",
+      "romaji": "Taisetsu",
+      "english": "Greater snow"
+    },
+    "season": "Winter",
+    "cues": [
+      "Gather with people. Plan one meal together.",
+      "Eat salmon or another oily fish.",
+      "Call family or old friends.",
+      "Notice the energy of the holiday season.",
+      "Help someone with something heavy.",
+      "Go back to a place that feels like home."
+    ]
+  },
+  {
+    "no": 64,
+    "starts": "12-21",
+    "kanji": "乃東生",
+    "romaji": "Natsukarekusa shōzu",
+    "english": "Self-heal sprouts",
+    "major_season": {
+      "no": 22,
+      "kanji": "冬至",
+      "romaji": "Tōji",
+      "english": "Winter solstice"
+    },
+    "season": "Winter",
+    "cues": [
+      "The shortest day. From here, the light returns.",
+      "Watch the early sunset and light a candle.",
+      "Eat a warm squash or pumpkin dish.",
+      "Take a hot bath with something fragrant.",
+      "Write down what you want to grow next year.",
+      "Notice the days slowly getting longer."
+    ]
+  },
+  {
+    "no": 65,
+    "starts": "12-26",
+    "kanji": "麋角解",
+    "romaji": "Sawashika no tsuno otsuru",
+    "english": "Deer shed their antlers",
+    "major_season": {
+      "no": 22,
+      "kanji": "冬至",
+      "romaji": "Tōji",
+      "english": "Winter solstice"
+    },
+    "season": "Winter",
+    "cues": [
+      "Shed one thing before the new year.",
+      "Clean out one drawer.",
+      "Rest. Do less this week.",
+      "Eat simple, nourishing food.",
+      "Forgive yourself for one thing this year.",
+      "Notice how quiet everything is in winter."
+    ]
+  },
+  {
+    "no": 66,
+    "starts": "12-31",
+    "kanji": "雪下出麦",
+    "romaji": "Yuki watarite mugi nobiru",
+    "english": "Wheat sprouts under snow",
+    "major_season": {
+      "no": 22,
+      "kanji": "冬至",
+      "romaji": "Tōji",
+      "english": "Winter solstice"
+    },
+    "season": "Winter",
+    "cues": [
+      "Set one quiet intention for the year ahead.",
+      "Write down three good things from this year.",
+      "Eat something with whole grains.",
+      "Start something small that will grow slowly.",
+      "Take a walk on the first day of the year.",
+      "Plan your first week gently."
+    ]
+  },
+  {
+    "no": 67,
+    "starts": "01-05",
+    "kanji": "芹乃栄",
+    "romaji": "Seri sunawachi sakau",
+    "english": "Parsley flourishes",
+    "major_season": {
+      "no": 23,
+      "kanji": "小寒",
+      "romaji": "Shōkan",
+      "english": "Lesser cold"
+    },
+    "season": "Winter",
+    "cues": [
+      "Eat greens to reset after the holidays.",
+      "Drink more water than usual today.",
+      "Make a fresh herb soup.",
+      "Go for a brisk walk.",
+      "Notice green plants thriving in the cold.",
+      "Start the year with one small healthy habit."
+    ]
+  },
+  {
+    "no": 68,
+    "starts": "01-10",
+    "kanji": "水泉動",
+    "romaji": "Shimizu atataka o fukumu",
+    "english": "Springs thaw",
+    "major_season": {
+      "no": 23,
+      "kanji": "小寒",
+      "romaji": "Shōkan",
+      "english": "Lesser cold"
+    },
+    "season": "Winter",
+    "cues": [
+      "Small steps count. Start one tiny habit.",
+      "Drink warm water when you wake up.",
+      "Notice moving water on your walk.",
+      "Loosen up with a long stretch.",
+      "Make progress on one stuck thing.",
+      "Be patient with slow progress."
+    ]
+  },
+  {
+    "no": 69,
+    "starts": "01-15",
+    "kanji": "雉始雊",
+    "romaji": "Kiji hajimete naku",
+    "english": "Pheasants start to call",
+    "major_season": {
+      "no": 23,
+      "kanji": "小寒",
+      "romaji": "Shōkan",
+      "english": "Lesser cold"
+    },
+    "season": "Winter",
+    "cues": [
+      "Say what you want out loud to someone.",
+      "Speak up in one conversation today.",
+      "Notice birds calling in the morning.",
+      "Call someone instead of texting.",
+      "Eat a warm breakfast with protein.",
+      "Share an idea you have been sitting on."
+    ]
+  },
+  {
+    "no": 70,
+    "starts": "01-20",
+    "kanji": "款冬華",
+    "romaji": "Fuki no hana saku",
+    "english": "Butterburs bud",
+    "major_season": {
+      "no": 24,
+      "kanji": "大寒",
+      "romaji": "Daikan",
+      "english": "Greater cold"
+    },
+    "season": "Winter",
+    "cues": [
+      "The coldest days. Stay warm and move a little daily.",
+      "Notice the first buds pushing through cold ground.",
+      "Eat bitter greens like kale or broccoli rabe.",
+      "Do ten minutes of exercise indoors.",
+      "Keep your hands and feet warm.",
+      "Look for small signs of spring."
+    ]
+  },
+  {
+    "no": 71,
+    "starts": "01-25",
+    "kanji": "水沢腹堅",
+    "romaji": "Sawamizu kōri tsumeru",
+    "english": "Ice thickens on streams",
+    "major_season": {
+      "no": 24,
+      "kanji": "大寒",
+      "romaji": "Daikan",
+      "english": "Greater cold"
+    },
+    "season": "Winter",
+    "cues": [
+      "Deep winter is good for focused work.",
+      "Pick one task and give it two quiet hours.",
+      "Eat a hot, slow-cooked meal.",
+      "Notice ice or frost in the early morning.",
+      "Keep your evenings calm and early.",
+      "Read something long and slow."
+    ]
+  },
+  {
+    "no": 72,
+    "starts": "01-30",
+    "kanji": "鶏始乳",
+    "romaji": "Niwatori hajimete toya ni tsuku",
+    "english": "Hens start laying eggs",
+    "major_season": {
+      "no": 24,
+      "kanji": "大寒",
+      "romaji": "Daikan",
+      "english": "Greater cold"
+    },
+    "season": "Winter",
+    "cues": [
+      "Spring is close. Plan what you will start.",
+      "Eat eggs for breakfast.",
+      "Notice the light lasting longer each day.",
+      "Clean your space before spring.",
+      "Make a list of things to try this spring.",
+      "Get some fresh air at midday."
+    ]
+  }
+]
